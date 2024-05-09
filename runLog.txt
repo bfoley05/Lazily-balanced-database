@@ -1,0 +1,46 @@
+Student 1:
+2010
+a
+a
+a
+0
+-1
+Student 2:
+1168
+a
+a
+a
+0
+-1
+Student 3:
+1940
+a
+a
+a
+0
+-1
+Student 4:
+3554
+a
+a
+a
+0
+-1
+Student 5:
+2782
+a
+a
+a
+0
+-1
+Student 6:
+4396
+a
+a
+a
+0
+-1
+
+
+
+
